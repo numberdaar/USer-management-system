@@ -23,7 +23,7 @@ This is a basic User Management System built with React.js that allows you to vi
 ### **1. Clone the Repository**
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/user-management.git
-cd user-management
+git clone https://github.com/numberdaar/USer-management-system
+cd USer-management-system
 npm install
 npm start
